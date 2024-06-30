@@ -87,7 +87,7 @@ Managing user accounts, monitoring transactions, and ensuring compliance with pl
 ### Deployed on Testnet: Deployed to 0xF9262838B405fAA35Dae0E56a3ca14FE8aeCAd1d
 
 
-Smart Contract: https://gist.github.com/nafkem/dabcccfbdf5638daf49425486a5fc636 
+Smart Contract: https://gist.github.com/nafkem/1b59923bf6d0aac3a24ec4b2bc2245fd
 
 Explorer transaction: https://scan-warringstakes.meter.io/address/0xc7b62c3c206e1a20dcab1d955804394b82d89203
 
@@ -95,5 +95,5 @@ Explorer transaction: https://scan-warringstakes.meter.io/address/0xc7b62c3c206e
 
 https://www.figma.com/proto/PUblN4MOdsqA4I7fg3ardt/StudentChain?type=design&node-id=5458-2522&t=mGG36w3yTkFMc0Y0-0&scaling=min-zoom&page-id=1516%3A486&starting-point-node-id=5458%3A865
 
-### Repo: https://github.com/pheobeayo/studentchain-hackmeter
+### Repo: https://github.com/pheobeayo/studentchain-builder
 
