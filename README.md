@@ -84,12 +84,11 @@ Managing user accounts, monitoring transactions, and ensuring compliance with pl
 
 ### Demo Video: https://youtu.be/ZIE-HRKqFD8
 
-### Deployed on Testnet: Deployed to 0xF9262838B405fAA35Dae0E56a3ca14FE8aeCAd1d
+### Deployed on Testnet: Deployed to 0x7708394Ae199fc4884D0c2d583DebCa8D4f0df4C
 
 
 Smart Contract: https://gist.github.com/nafkem/1b59923bf6d0aac3a24ec4b2bc2245fd
 
-Explorer transaction: https://scan-warringstakes.meter.io/address/0xc7b62c3c206e1a20dcab1d955804394b82d89203
 
 ### Design Prototype
 
