@@ -82,7 +82,7 @@ Managing user accounts, monitoring transactions, and ensuring compliance with pl
 
 ### Pitch: https://youtu.be/-suwoUsrVik
 
-### Demo Video: https://youtu.be/NjklQvkqlIM
+### Demo Video: https://youtu.be/ZIE-HRKqFD8
 
 ### Deployed on Testnet: Deployed to 0xF9262838B405fAA35Dae0E56a3ca14FE8aeCAd1d
 
