@@ -1,27 +1,27 @@
 import { createWeb3Modal, defaultConfig } from "@web3modal/ethers/react";
 
 
-export const SUPPORTED_CHAIN = 84532;
+export const SUPPORTED_CHAIN = 1115;
 
-const sepolia = {
+const Core = {
     chainId: SUPPORTED_CHAIN,
-    name: "Base Sepolia",
-    currency: "ETH",
-    explorerUrl: "https://sepolia-explorer.base.org/",
+    name: "Core Blockchain Testnet",
+    currency: "tCORE",
+    explorerUrl: "https://scan.test.btcs.network/",
     rpcUrl: process.env.REACT_APP_RPC_URL,
 };
 
 const metadata = {
     name: "StudentChain",
     description: "A blockchain app for supporting students",
-    url: "https://studentchain-builder.vercel.app/", // origin must match your domain & subdomain
-    icons: ["https://studentchain-builder.vercel.app/"],
+    url: "https://studentchain-core.vercel.app/", // origin must match your domain & subdomain
+    icons: ["https://studentchain-core.vercel.app/"],
 };
 
 export const configureWeb3Modal = () =>
     createWeb3Modal({
         ethersConfig: defaultConfig({ metadata }),
-        chains: [sepolia],
+        chains: [Core],
         projectId: process.env.REACT_APP_PROJECTID,
         enableAnalytics: false, // Optional - defaults to your Cloud configuration
         themeVariables: {
